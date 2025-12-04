@@ -1,7 +1,9 @@
 streamlit
+scikit-learn==1.6.1
 scikit-learn
 pandas
 numpy
 joblib
 fastapi
 uvicorn
+
